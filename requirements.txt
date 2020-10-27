@@ -1,0 +1,8 @@
+# $ conda create --name churn_deploy python=3.6.9
+# $ conda activate churn_deploy
+# $ pip install -r requirements.txt
+pycaret==2.1
+shap
+psutil
+jupyter
+streamlit
