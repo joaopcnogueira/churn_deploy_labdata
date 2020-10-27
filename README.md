@@ -23,10 +23,10 @@ python src\data_prep\train\etl.py --data_ref 2018-01-01
 `
 
 No Linux:
-
 `
 python src/data_prep/train/etl.py --data_ref 2018-01-01
 `
+
 # Treinando o Modelo
 Execute o notebook na pasta `notebooks/modeling.ipynb` para treinar o melhor modelo já selecionado em exercício na aula de PyCaret.
 No final, você terá um modelo em formato `.pkl` salvo na pasta `models`.
@@ -40,7 +40,6 @@ python src\utils\create_scored_table.py
 `
 
 No Linux:
-
 `
 python src/utils/create_scored_table.py
 `
@@ -55,7 +54,6 @@ python run_predict.py --data_ref 2018-03-01
 `
 
 No Linux:
-
 `
 python run_predict.py --data_ref 2018-03-01
 `
@@ -69,7 +67,6 @@ python scheduler.py
 `
 
 No Linux:
-
 `
 python scheduler.py
 `
@@ -83,7 +80,6 @@ streamlit run app.py
 `
 
 No Linux:
-
 `
 streamlit run app.py
 `
