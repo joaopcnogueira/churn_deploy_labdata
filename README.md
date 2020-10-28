@@ -1,3 +1,11 @@
+# Faça o Download do Projeto
+
+Clique em `Code` e depois `Download Zip`.
+
+# Instale o Miniconda
+
+[Miniconda Download](https://docs.conda.io/en/latest/miniconda.html)
+
 # Setup do Ambiente
 
 `
