@@ -9,11 +9,6 @@ models_dir = work_dir.joinpath('models').absolute()
 
 model = load_model(str(models_dir.joinpath('model_churn')))
 
-def predict(model, input_df):
-    predictions_df = predict_model(estimator=model, data=input_df, probability_threshold=0.44)
-    predictions = predictions_df['Label'][0]
-    return predictions
-
 def run():
 
     add_selectbox = st.sidebar.selectbox("Como você gostaria de fazer a sua predição?", ("Online", "Batch"))
