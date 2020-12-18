@@ -2,9 +2,9 @@
 
 Clique em `Code` e depois `Download Zip`.
 
-# Instale o Miniconda
+# Instale o Anaconda
 
-[Miniconda Download](https://docs.conda.io/en/latest/miniconda.html)
+[Anaconda Download](https://www.anaconda.com/products/individual)
 
 # Setup do Ambiente
 
