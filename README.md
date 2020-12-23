@@ -35,7 +35,7 @@ No Linux:
 python src/data_prep/train/etl.py --data_ref 2018-01-01
 `
 
-# Treinando o Modelo
+# Treinando o Modelo (opcional)
 Execute o notebook na pasta `notebooks/modeling.ipynb` para treinar o melhor modelo já selecionado em exercício na aula de PyCaret.
 No final, você terá um modelo em formato `.pkl` salvo na pasta `models`.
 
