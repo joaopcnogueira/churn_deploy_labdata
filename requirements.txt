@@ -1,7 +1,7 @@
 # $ conda create --name churn_deploy python=3.6.9
 # $ conda activate churn_deploy
 # $ pip install -r requirements.txt
-pycaret==2.1
+pycaret==2.0.0
 shap
 psutil
 jupyter
