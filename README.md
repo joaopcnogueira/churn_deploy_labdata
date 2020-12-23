@@ -9,7 +9,7 @@ Clique em `Code` e depois `Download Zip`.
 # Setup do Ambiente
 
 `
-conda create --name churn_deploy python==3.6.9
+conda create --name churn_deploy python=3.6.9
 `
 
 `
